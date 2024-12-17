@@ -23,10 +23,8 @@ This application can be used as a social network web application where users can
 ## Contributors
 This code and assignment description was given to me to modify by my Bootcamp 2024 Instructor.
 
-## License
-MIT
-
 ## Questions
 Feel free to reach out to me here with any questions or comments:
 - Email: selhz@email.com
 - GitHub: selhz9
+- Video of functionality: https://www.youtube.com/watch?v=96hTcizB6Mo&feature=youtu.be
